@@ -1,0 +1,2 @@
+ALTER TABLE mentor
+ADD COLUMN active BOOLEAN;
